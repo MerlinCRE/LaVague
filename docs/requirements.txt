@@ -200,7 +200,7 @@ six==1.16.0
     #   asttokens
     #   bleach
     #   python-dateutil
-soupsieve==2.5
+soupsieve==4.0
     # via beautifulsoup4
 stack-data==0.6.3
     # via ipython
